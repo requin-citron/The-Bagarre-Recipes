@@ -13,6 +13,7 @@
   * [Prise de dos](sol/monte/prise-de-dos/README.md)
     * [Berimbolo](sol/monte/prise-de-dos/berimbolo.md)
   * [Prise de side control](sol/monte/prise-de-side-control.md)
+  * [Ground and pound](sol/monte/ground-and-pound.md)
 * [Side Control](sol/side-control/README.md)
   * [Soumission](sol/side-control/soumission/README.md)
     * [D'Arce](sol/side-control/soumission/darce.md)
@@ -47,6 +48,10 @@
   * [Soumission](sol/k-guard/soumission/README.md)
     * [Triangle](sol/k-guard/soumission/triangle.md)
 
-## Projections
+## Lutte
 
-* [Page 1](projections/page-1.md)
+* [Contrôle nuque](lutte/controle-nuque/README.md)
+  * [Défense](lutte/controle-nuque/defense/README.md)
+    * [Russian Tie](lutte/controle-nuque/defense/russian-tie.md)
+* [Single leg](lutte/single-leg.md)
+* [Double legs](lutte/double-legs.md)
