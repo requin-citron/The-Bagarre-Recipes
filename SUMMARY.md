@@ -50,8 +50,13 @@
 
 ## Lutte
 
-* [Contrôle nuque](lutte/controle-nuque/README.md)
-  * [Défense](lutte/controle-nuque/defense/README.md)
-    * [Russian Tie](lutte/controle-nuque/defense/russian-tie.md)
-* [Single leg](lutte/single-leg.md)
-* [Double legs](lutte/double-legs.md)
+* [Collar Tie](lutte/collar-tie/README.md)
+  * [Défense](lutte/collar-tie/defense/README.md)
+    * [Russian Tie](lutte/collar-tie/defense/russian-tie.md)
+* [Single leg](lutte/single-leg/README.md)
+  * [Défense](lutte/single-leg/defense/README.md)
+    * [3/4 Nelson](lutte/single-leg/defense/3-4-nelson.md)
+  * [Takedown](lutte/single-leg/takedown/README.md)
+    * [Je sais comment ca s'appelle](lutte/single-leg/takedown/je-sais-comment-ca-sappelle.md)
+* [Double legs](lutte/double-legs/README.md)
+  * [Défense](lutte/double-legs/defense.md)
