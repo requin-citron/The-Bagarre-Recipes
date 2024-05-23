@@ -47,6 +47,13 @@
 * [K Guard](sol/k-guard/README.md)
   * [Soumission](sol/k-guard/soumission/README.md)
     * [Triangle](sol/k-guard/soumission/triangle.md)
+* [Knee Slide](sol/knee-slide/README.md)
+  * [Defénse](sol/knee-slide/defense/README.md)
+    * [Reverse Delariva + Kiss of the dragon](sol/knee-slide/defense/reverse-delariva-+-kiss-of-the-dragon.md)
+* [Reverse Delariva](sol/reverse-delariva/README.md)
+  * [Page 1](sol/reverse-delariva/page-1.md)
+* [Passage de garde](sol/passage-de-garde/README.md)
+  * [Kimura trap](sol/passage-de-garde/kimura-trap.md)
 
 ## Lutte
 
