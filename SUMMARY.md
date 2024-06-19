@@ -23,9 +23,11 @@
   * [Prise de dos](sol/side-control/prise-de-dos.md)
   * [Prise de la monté](sol/side-control/prise-de-la-monte.md)
   * [Défense](sol/side-control/defense/README.md)
-    * [Ghost Escape](sol/side-control/defense/ghost-escape.md)
+    * [Ghost escape](sol/side-control/defense/ghost-escape.md)
     * [Kimura escape](sol/side-control/defense/kimura-escape.md)
     * [Renversement](sol/side-control/defense/renversement.md)
+    * [Ninja choke](sol/side-control/defense/ninja-choke.md)
+    * [Arm bar](sol/side-control/defense/arm-bar.md)
 * [Garde fermé](sol/garde-ferme/README.md)
   * [Soumission](sol/garde-ferme/soumission/README.md)
     * [Triangle](sol/garde-ferme/soumission/triangle.md)
@@ -55,6 +57,9 @@
 * [Passage de garde](sol/passage-de-garde/README.md)
   * [Kimura trap](sol/passage-de-garde/kimura-trap.md)
   * [Over Under](sol/passage-de-garde/over-under.md)
+* [Butterfly](sol/butterfly/README.md)
+  * [Renversement](sol/butterfly/renversement/README.md)
+    * [Overhook sweep](sol/butterfly/renversement/overhook-sweep.md)
 
 ## Lutte
 
