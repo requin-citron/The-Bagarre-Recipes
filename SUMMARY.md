@@ -37,7 +37,7 @@
   * [Soumission](sol/turtle/soumission/README.md)
     * [D'Arce](sol/turtle/soumission/darce.md)
   * [Prise de dos](sol/turtle/prise-de-dos/README.md)
-    * [Tirer sur soit](sol/turtle/prise-de-dos/tirer-sur-soit.md)
+    * [Tirer sur soi](sol/turtle/prise-de-dos/tirer-sur-soi.md)
 * [Dos](sol/dos/README.md)
   * [Soumission](sol/dos/soumission/README.md)
     * [Mataleo](sol/dos/soumission/mataleo.md)
@@ -54,6 +54,7 @@
   * [Page 1](sol/reverse-delariva/page-1.md)
 * [Passage de garde](sol/passage-de-garde/README.md)
   * [Kimura trap](sol/passage-de-garde/kimura-trap.md)
+  * [Over Under](sol/passage-de-garde/over-under.md)
 
 ## Lutte
 
