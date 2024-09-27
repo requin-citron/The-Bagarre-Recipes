@@ -6,6 +6,7 @@
 
 * [Monté](sol/monte/README.md)
   * [Soumission](sol/monte/soumission/README.md)
+    * [Americana](sol/monte/soumission/americana.md)
     * [Arm bar](sol/monte/soumission/arm-bar.md)
     * [Ezekiel](sol/monte/soumission/ezekiel.md)
     * [Cross choke](sol/monte/soumission/cross-choke.md)
