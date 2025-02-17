@@ -1,2 +1,0 @@
-# Prise de side control
-
