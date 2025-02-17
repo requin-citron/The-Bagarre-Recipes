@@ -34,14 +34,14 @@ export default defineConfig({
     ],
     transformHead: ({ pageData }) => {
         const pageTitle = pageData.title ? `${pageData.title} | The Bagarre Recipes` : 'The Bagarre Recipes';
-        const pageDescription = pageData.description || 'Comprehensive cybersecurity guides and strategies for ethical hacking and penetration testing';
+        const pageDescription = pageData.description || 'Comprehensive bagarre guides and strategies for ethical bagarre testing';
         return [
             ['title', {}, pageTitle],
             ['meta', { property: 'og:title', content: pageTitle }],
             ['meta', { property: 'og:description', content: pageDescription }],
-            ['meta', { property: 'og:image', content: 'https://thehacker.recipes/images/social-preview.png' }],
+            ['meta', { property: 'og:image', content: 'https://bagarre.kleman.pw/images/social-preview.png' }],
             ['meta', { name: 'twitter:title', content: pageTitle }],
-            ['meta', { name: 'twitter:image', content: 'https://thehacker.recipes/images/social-preview.png' }],
+            ['meta', { name: 'twitter:image', content: 'https://bagarre.kleman.pw/images/social-preview.png' }],
             ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
             ['meta', { name: 'twitter:description', content: pageDescription }]
         ];
